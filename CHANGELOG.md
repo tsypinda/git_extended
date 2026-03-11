@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/tsypinda/git_extended/compare/v1.0.0...v1.2.3) (2026-03-11)
+
+
+### Features
+
+* add feature file ([b8f5764](https://github.com/tsypinda/git_extended/commit/b8f5764f27d8577761bf597aacf2845be1ca6c22))
+
 # 1.0.0 (2026-03-11)
 
 
